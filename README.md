@@ -18,6 +18,11 @@
 
 ---
 
+- 🎗️ Portfolio: [NexxaDev](https://nexxadev.github.io)
+
+---
+
+
 ### 🛠️ Tech Stack
 
 <p align="center">
