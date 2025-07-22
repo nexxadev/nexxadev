@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">NexxaDev</span></h1>
 <h3 align="center">🚀 Passionate Coder | 🤖 Robotics Hobbyist | 🌍 Collaborator</h3>
 
@@ -41,6 +43,7 @@
 - 🌐 Website: [nexxadev.ct.ws](http://nexxadev.ct.ws)
 
 ---
+</div>
 
 ### 🚧 Upcoming
 
