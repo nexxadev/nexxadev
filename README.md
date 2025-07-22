@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
 </p>
 
+
+![snake gif](https://github.com/nexxadev/nexxadev/blob/output/github-snake-dark.svg)
+
 ---
 
 ### 📫 Reach Out
